@@ -7,7 +7,11 @@
         <h1>Thérapie individuelle</h1>
         <p class="mb-4">Une démarche thérapeutique permet la prise de conscience de ce qui se passe en vous et de ce qui entretient les insatisfactions de votre vie.  Plus on prend conscience de ce qui nous fait peur, nous dérange ou nous fait mal, cela fait place à une liberté de faire des choix conscients et de reprendre  confiance  à l’égard de  vivre notre vie. L’espace thérapeutique permet de s’exprimer en toute sécurité et ainsi cheminer vers une plus grande connaissance et compréhension de son fonctionnement en relation avec soi et les autres. C’est un endroit pour exister, communiquer et grandir. Vous avez besoin d’être entendu sans jugement dans ce qui est précieux ou souffrant pour vous?</p>
         <div class="row">
-          <div class="col-12 col-md-4"><button class="btn btn-secondary btn-block">me rejoindre</button></div>
+          <div class="col-12 col-md-4">
+            <a href="mailto:chantal.gmasse@gmail.com">
+              <button class="btn btn-secondary btn-block">me rejoindre</button>
+            </a>
+          </div>
         </div>
       </div>
     </div>

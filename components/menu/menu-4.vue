@@ -1,7 +1,9 @@
 <template>
   <div class="container">
     <div class="navbar navbar-expand-lg justify-content-between">
+      <!--
       <div class="d-lg-none"><a class="navbar-toggler mr-1" href="" data-id="menu-4-sidebar-toggle"><img src="@/assets/glyphs/burger.svg" /></a></div>
+      -->
       <div>
         <span>Chantal Massé</span>
       </div>
@@ -18,10 +20,13 @@
           -->
         </div>
       </div>
+      <!--
       <div class="d-lg-none ml-auto">
         <div class="nav-item"><a class="nav-link text-dark pr-0" href=""><img src="@/assets/glyphs/search.svg" /></a></div>
       </div>
+      -->
     </div>
+    <!--
     <div class="navbar-side" id="menu-4-sidebar" data-id="menu-4-sidebar-close">
       <div class="navbar-side-content d-flex flex-column justify-content-between">
         <div class="weight-700"><a class="navbar-side-close mb-4" href="" data-id="menu-4-sidebar-close"><img src="@/assets/glyphs/close.svg" width="32" /></a>
@@ -42,6 +47,7 @@
       </div>
       <div class="navbar-side-content weight-700"><a class="navbar-side-close mb-4" href="" data-id="menu-4-sidebar-close"><img src="@/assets/glyphs/close.svg" width="32" /></a></div>
     </div>
+    -->
   </div>
 </template>
 
