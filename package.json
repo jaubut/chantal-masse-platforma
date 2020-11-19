@@ -1,8 +1,8 @@
 {
-  "name": "nuxt-platforma-starter",
+  "name": "chantal-masse-therapeute",
   "version": "1.0.0",
-  "description": "My good Nuxt.js project",
-  "author": "Jeremie Imac",
+  "description": "J'accompagne avec une belle écoute, de l’empathie et du non-jugement. Mon travail amène les adultes et les couples dans une meilleure compréhension d’eux-mêmes, de ce qu’ils vivent, à mieux communiquer et à faire des choix conscients vers la réalisation de leur vie.",
+  "author": "Jeremie",
   "private": true,
   "scripts": {
     "dev": "nuxt",
